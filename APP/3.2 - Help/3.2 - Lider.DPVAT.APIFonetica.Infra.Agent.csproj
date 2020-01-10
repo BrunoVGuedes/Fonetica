@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+    <RootNamespace>_3._2___Help</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Lider.DPVAT.APIFonetica\Lider.DPVAT.APIFonetica.UI.csproj" />
+  </ItemGroup>
+
+</Project>
