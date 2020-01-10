@@ -1,0 +1,424 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\brunoguedes\\Documents\\GitHub\\Fonetica\\APP\\Lider.DPVAT.APIFonetica\\Lider.DPVAT.APIFonetica.UI.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\brunoguedes\\Documents\\GitHub\\Fonetica\\APP\\Lider.DPVAT.APIFonetica.Application\\Lider.DPVAT.APIFonetica.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\brunoguedes\\Documents\\GitHub\\Fonetica\\APP\\Lider.DPVAT.APIFonetica.Application\\Lider.DPVAT.APIFonetica.Application.csproj",
+        "projectName": "Lider.DPVAT.APIFonetica.Application",
+        "projectPath": "C:\\Users\\brunoguedes\\Documents\\GitHub\\Fonetica\\APP\\Lider.DPVAT.APIFonetica.Application\\Lider.DPVAT.APIFonetica.Application.csproj",
+        "packagesPath": "C:\\Users\\brunoguedes\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\brunoguedes\\Documents\\GitHub\\Fonetica\\APP\\Lider.DPVAT.APIFonetica.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\brunoguedes\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\brunoguedes\\Documents\\GitHub\\Fonetica\\APP\\Lider.DPVAT.APIFonetica.Domain\\Lider.DPVAT.APIFonetica.Domain.csproj": {
+                "projectPath": "C:\\Users\\brunoguedes\\Documents\\GitHub\\Fonetica\\APP\\Lider.DPVAT.APIFonetica.Domain\\Lider.DPVAT.APIFonetica.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\brunoguedes\\Documents\\GitHub\\Fonetica\\APP\\Lider.DPVAT.APIFonetica.CrossCutting\\Lider.DPVAT.APIFonetica.Infra.CrossCutting.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\brunoguedes\\Documents\\GitHub\\Fonetica\\APP\\Lider.DPVAT.APIFonetica.CrossCutting\\Lider.DPVAT.APIFonetica.Infra.CrossCutting.csproj",
+        "projectName": "Lider.DPVAT.APIFonetica.Infra.CrossCutting",
+        "projectPath": "C:\\Users\\brunoguedes\\Documents\\GitHub\\Fonetica\\APP\\Lider.DPVAT.APIFonetica.CrossCutting\\Lider.DPVAT.APIFonetica.Infra.CrossCutting.csproj",
+        "packagesPath": "C:\\Users\\brunoguedes\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\brunoguedes\\Documents\\GitHub\\Fonetica\\APP\\Lider.DPVAT.APIFonetica.CrossCutting\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\brunoguedes\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\brunoguedes\\Documents\\GitHub\\Fonetica\\APP\\Lider.DPVAT.APIFonetica.Application\\Lider.DPVAT.APIFonetica.Application.csproj": {
+                "projectPath": "C:\\Users\\brunoguedes\\Documents\\GitHub\\Fonetica\\APP\\Lider.DPVAT.APIFonetica.Application\\Lider.DPVAT.APIFonetica.Application.csproj"
+              },
+              "C:\\Users\\brunoguedes\\Documents\\GitHub\\Fonetica\\APP\\Lider.DPVAT.APIFonetica.Domain\\Lider.DPVAT.APIFonetica.Domain.csproj": {
+                "projectPath": "C:\\Users\\brunoguedes\\Documents\\GitHub\\Fonetica\\APP\\Lider.DPVAT.APIFonetica.Domain\\Lider.DPVAT.APIFonetica.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Http": {
+              "target": "Package",
+              "version": "[2.2.2, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.Logging": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\brunoguedes\\Documents\\GitHub\\Fonetica\\APP\\Lider.DPVAT.APIFonetica.Domain\\Lider.DPVAT.APIFonetica.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\brunoguedes\\Documents\\GitHub\\Fonetica\\APP\\Lider.DPVAT.APIFonetica.Domain\\Lider.DPVAT.APIFonetica.Domain.csproj",
+        "projectName": "Lider.DPVAT.APIFonetica.Domain",
+        "projectPath": "C:\\Users\\brunoguedes\\Documents\\GitHub\\Fonetica\\APP\\Lider.DPVAT.APIFonetica.Domain\\Lider.DPVAT.APIFonetica.Domain.csproj",
+        "packagesPath": "C:\\Users\\brunoguedes\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\brunoguedes\\Documents\\GitHub\\Fonetica\\APP\\Lider.DPVAT.APIFonetica.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\brunoguedes\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\brunoguedes\\Documents\\GitHub\\Fonetica\\APP\\Lider.DPVAT.APIFonetica\\Lider.DPVAT.APIFonetica.UI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\brunoguedes\\Documents\\GitHub\\Fonetica\\APP\\Lider.DPVAT.APIFonetica\\Lider.DPVAT.APIFonetica.UI.csproj",
+        "projectName": "Lider.DPVAT.APIFonetica.UI",
+        "projectPath": "C:\\Users\\brunoguedes\\Documents\\GitHub\\Fonetica\\APP\\Lider.DPVAT.APIFonetica\\Lider.DPVAT.APIFonetica.UI.csproj",
+        "packagesPath": "C:\\Users\\brunoguedes\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\brunoguedes\\Documents\\GitHub\\Fonetica\\APP\\Lider.DPVAT.APIFonetica\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\brunoguedes\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\brunoguedes\\Documents\\GitHub\\Fonetica\\APP\\Lider.DPVAT.APIFonetica.CrossCutting\\Lider.DPVAT.APIFonetica.Infra.CrossCutting.csproj": {
+                "projectPath": "C:\\Users\\brunoguedes\\Documents\\GitHub\\Fonetica\\APP\\Lider.DPVAT.APIFonetica.CrossCutting\\Lider.DPVAT.APIFonetica.Infra.CrossCutting.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "App.Metrics": {
+              "target": "Package",
+              "version": "[3.2.0, )"
+            },
+            "App.Metrics.AspNetCore": {
+              "target": "Package",
+              "version": "[3.2.0, )"
+            },
+            "App.Metrics.AspNetCore.Core": {
+              "target": "Package",
+              "version": "[3.2.0, )"
+            },
+            "App.Metrics.AspNetCore.Endpoints": {
+              "target": "Package",
+              "version": "[3.2.0, )"
+            },
+            "App.Metrics.AspNetCore.Health": {
+              "target": "Package",
+              "version": "[3.2.0, )"
+            },
+            "App.Metrics.AspNetCore.Health.Core": {
+              "target": "Package",
+              "version": "[3.2.0, )"
+            },
+            "App.Metrics.AspNetCore.Health.Endpoints": {
+              "target": "Package",
+              "version": "[3.2.0, )"
+            },
+            "App.Metrics.AspNetCore.Mvc": {
+              "target": "Package",
+              "version": "[3.2.0, )"
+            },
+            "App.Metrics.AspNetCore.Mvc.Core": {
+              "target": "Package",
+              "version": "[3.2.0, )"
+            },
+            "App.Metrics.AspNetCore.Reporting": {
+              "target": "Package",
+              "version": "[3.2.0, )"
+            },
+            "App.Metrics.AspNetCore.Tracking": {
+              "target": "Package",
+              "version": "[3.2.0, )"
+            },
+            "App.Metrics.Core": {
+              "target": "Package",
+              "version": "[3.2.0, )"
+            },
+            "App.Metrics.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[3.2.0, )"
+            },
+            "App.Metrics.Extensions.Hosting": {
+              "target": "Package",
+              "version": "[3.2.0, )"
+            },
+            "App.Metrics.Formatters.Prometheus": {
+              "target": "Package",
+              "version": "[3.2.0, )"
+            },
+            "App.Metrics.Health": {
+              "target": "Package",
+              "version": "[3.2.0, )"
+            },
+            "App.Metrics.Health.AppNetCore": {
+              "target": "Package",
+              "version": "[3.2.0, )"
+            },
+            "App.Metrics.Health.Checks.Http": {
+              "target": "Package",
+              "version": "[3.2.0, )"
+            },
+            "App.Metrics.Health.Checks.Network": {
+              "target": "Package",
+              "version": "[3.2.0, )"
+            },
+            "App.Metrics.Health.Checks.Process": {
+              "target": "Package",
+              "version": "[3.2.0, )"
+            },
+            "App.Metrics.Health.Checks.Sql": {
+              "target": "Package",
+              "version": "[3.2.0, )"
+            },
+            "App.Metrics.Health.Core": {
+              "target": "Package",
+              "version": "[3.2.0, )"
+            },
+            "App.Metrics.Health.Reporting.Metrics": {
+              "target": "Package",
+              "version": "[3.2.0, )"
+            },
+            "App.Metrics.Reporting.GrafanaCloudHostedMetrics": {
+              "target": "Package",
+              "version": "[3.2.0, )"
+            },
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Hosting.WindowsServices": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Rewrite": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.StaticFiles": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.PlatformAbstractions": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[2.2.3, )"
+            },
+            "NLog.Extension.RabbitMQ.Target": {
+              "target": "Package",
+              "version": "[1.0.2, )"
+            },
+            "NLog.Extensions.Logging": {
+              "target": "Package",
+              "version": "[1.6.0, )"
+            },
+            "NLog.Web.AspNetCore": {
+              "target": "Package",
+              "version": "[4.8.2, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.2, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[4.0.1, )"
+            },
+            "Swashbuckle.AspNetCore.Examples": {
+              "target": "Package",
+              "version": "[2.9.0, )"
+            },
+            "Swashbuckle.AspNetCore.Swagger": {
+              "target": "Package",
+              "version": "[4.0.1, )"
+            },
+            "Swashbuckle.AspNetCore.SwaggerGen": {
+              "target": "Package",
+              "version": "[4.0.1, )"
+            },
+            "Swashbuckle.AspNetCore.SwaggerUI": {
+              "target": "Package",
+              "version": "[4.0.1, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[5.4.0, )"
+            },
+            "prometheus-net.AspNetCore": {
+              "target": "Package",
+              "version": "[3.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

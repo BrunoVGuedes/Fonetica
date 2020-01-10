@@ -1,0 +1,203 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\brunoguedes\\Documents\\GitHub\\Fonetica\\APP\\Lider.DPVAT.APIFonetica.CrossCutting\\Lider.DPVAT.APIFonetica.Infra.CrossCutting.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\brunoguedes\\Documents\\GitHub\\Fonetica\\APP\\Lider.DPVAT.APIFonetica.Application\\Lider.DPVAT.APIFonetica.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\brunoguedes\\Documents\\GitHub\\Fonetica\\APP\\Lider.DPVAT.APIFonetica.Application\\Lider.DPVAT.APIFonetica.Application.csproj",
+        "projectName": "Lider.DPVAT.APIFonetica.Application",
+        "projectPath": "C:\\Users\\brunoguedes\\Documents\\GitHub\\Fonetica\\APP\\Lider.DPVAT.APIFonetica.Application\\Lider.DPVAT.APIFonetica.Application.csproj",
+        "packagesPath": "C:\\Users\\brunoguedes\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\brunoguedes\\Documents\\GitHub\\Fonetica\\APP\\Lider.DPVAT.APIFonetica.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\brunoguedes\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\brunoguedes\\Documents\\GitHub\\Fonetica\\APP\\Lider.DPVAT.APIFonetica.Domain\\Lider.DPVAT.APIFonetica.Domain.csproj": {
+                "projectPath": "C:\\Users\\brunoguedes\\Documents\\GitHub\\Fonetica\\APP\\Lider.DPVAT.APIFonetica.Domain\\Lider.DPVAT.APIFonetica.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\brunoguedes\\Documents\\GitHub\\Fonetica\\APP\\Lider.DPVAT.APIFonetica.CrossCutting\\Lider.DPVAT.APIFonetica.Infra.CrossCutting.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\brunoguedes\\Documents\\GitHub\\Fonetica\\APP\\Lider.DPVAT.APIFonetica.CrossCutting\\Lider.DPVAT.APIFonetica.Infra.CrossCutting.csproj",
+        "projectName": "Lider.DPVAT.APIFonetica.Infra.CrossCutting",
+        "projectPath": "C:\\Users\\brunoguedes\\Documents\\GitHub\\Fonetica\\APP\\Lider.DPVAT.APIFonetica.CrossCutting\\Lider.DPVAT.APIFonetica.Infra.CrossCutting.csproj",
+        "packagesPath": "C:\\Users\\brunoguedes\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\brunoguedes\\Documents\\GitHub\\Fonetica\\APP\\Lider.DPVAT.APIFonetica.CrossCutting\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\brunoguedes\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\brunoguedes\\Documents\\GitHub\\Fonetica\\APP\\Lider.DPVAT.APIFonetica.Application\\Lider.DPVAT.APIFonetica.Application.csproj": {
+                "projectPath": "C:\\Users\\brunoguedes\\Documents\\GitHub\\Fonetica\\APP\\Lider.DPVAT.APIFonetica.Application\\Lider.DPVAT.APIFonetica.Application.csproj"
+              },
+              "C:\\Users\\brunoguedes\\Documents\\GitHub\\Fonetica\\APP\\Lider.DPVAT.APIFonetica.Domain\\Lider.DPVAT.APIFonetica.Domain.csproj": {
+                "projectPath": "C:\\Users\\brunoguedes\\Documents\\GitHub\\Fonetica\\APP\\Lider.DPVAT.APIFonetica.Domain\\Lider.DPVAT.APIFonetica.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Http": {
+              "target": "Package",
+              "version": "[2.2.2, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.Logging": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\brunoguedes\\Documents\\GitHub\\Fonetica\\APP\\Lider.DPVAT.APIFonetica.Domain\\Lider.DPVAT.APIFonetica.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\brunoguedes\\Documents\\GitHub\\Fonetica\\APP\\Lider.DPVAT.APIFonetica.Domain\\Lider.DPVAT.APIFonetica.Domain.csproj",
+        "projectName": "Lider.DPVAT.APIFonetica.Domain",
+        "projectPath": "C:\\Users\\brunoguedes\\Documents\\GitHub\\Fonetica\\APP\\Lider.DPVAT.APIFonetica.Domain\\Lider.DPVAT.APIFonetica.Domain.csproj",
+        "packagesPath": "C:\\Users\\brunoguedes\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\brunoguedes\\Documents\\GitHub\\Fonetica\\APP\\Lider.DPVAT.APIFonetica.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\brunoguedes\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

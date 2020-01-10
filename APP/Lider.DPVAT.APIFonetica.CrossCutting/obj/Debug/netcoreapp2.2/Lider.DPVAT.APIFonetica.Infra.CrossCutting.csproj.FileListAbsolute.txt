@@ -12,3 +12,16 @@ C:\Users\decio.brq\Documents\Lider.DPVAT.Engine.APIFonetica\APP\Lider.DPVAT.APIF
 C:\Users\decio.brq\Documents\Lider.DPVAT.Engine.APIFonetica\APP\Lider.DPVAT.APIFonetica.CrossCutting\obj\Debug\netcoreapp2.2\Lider.DPVAT.APIFonetica.Infra.CrossCutting.csproj.CopyComplete
 C:\Users\decio.brq\Documents\Lider.DPVAT.Engine.APIFonetica\APP\Lider.DPVAT.APIFonetica.CrossCutting\obj\Debug\netcoreapp2.2\Lider.DPVAT.APIFonetica.Infra.CrossCutting.dll
 C:\Users\decio.brq\Documents\Lider.DPVAT.Engine.APIFonetica\APP\Lider.DPVAT.APIFonetica.CrossCutting\obj\Debug\netcoreapp2.2\Lider.DPVAT.APIFonetica.Infra.CrossCutting.pdb
+C:\Users\brunoguedes\Documents\GitHub\Fonetica\APP\Lider.DPVAT.APIFonetica.CrossCutting\bin\Debug\netcoreapp2.2\Lider.DPVAT.APIFonetica.Infra.CrossCutting.deps.json
+C:\Users\brunoguedes\Documents\GitHub\Fonetica\APP\Lider.DPVAT.APIFonetica.CrossCutting\bin\Debug\netcoreapp2.2\Lider.DPVAT.APIFonetica.Infra.CrossCutting.dll
+C:\Users\brunoguedes\Documents\GitHub\Fonetica\APP\Lider.DPVAT.APIFonetica.CrossCutting\bin\Debug\netcoreapp2.2\Lider.DPVAT.APIFonetica.Infra.CrossCutting.pdb
+C:\Users\brunoguedes\Documents\GitHub\Fonetica\APP\Lider.DPVAT.APIFonetica.CrossCutting\bin\Debug\netcoreapp2.2\Lider.DPVAT.APIFonetica.Application.dll
+C:\Users\brunoguedes\Documents\GitHub\Fonetica\APP\Lider.DPVAT.APIFonetica.CrossCutting\bin\Debug\netcoreapp2.2\Lider.DPVAT.APIFonetica.Domain.dll
+C:\Users\brunoguedes\Documents\GitHub\Fonetica\APP\Lider.DPVAT.APIFonetica.CrossCutting\bin\Debug\netcoreapp2.2\Lider.DPVAT.APIFonetica.Application.pdb
+C:\Users\brunoguedes\Documents\GitHub\Fonetica\APP\Lider.DPVAT.APIFonetica.CrossCutting\bin\Debug\netcoreapp2.2\Lider.DPVAT.APIFonetica.Domain.pdb
+C:\Users\brunoguedes\Documents\GitHub\Fonetica\APP\Lider.DPVAT.APIFonetica.CrossCutting\obj\Debug\netcoreapp2.2\Lider.DPVAT.APIFonetica.Infra.CrossCutting.csprojAssemblyReference.cache
+C:\Users\brunoguedes\Documents\GitHub\Fonetica\APP\Lider.DPVAT.APIFonetica.CrossCutting\obj\Debug\netcoreapp2.2\Lider.DPVAT.APIFonetica.Infra.CrossCutting.AssemblyInfoInputs.cache
+C:\Users\brunoguedes\Documents\GitHub\Fonetica\APP\Lider.DPVAT.APIFonetica.CrossCutting\obj\Debug\netcoreapp2.2\Lider.DPVAT.APIFonetica.Infra.CrossCutting.AssemblyInfo.cs
+C:\Users\brunoguedes\Documents\GitHub\Fonetica\APP\Lider.DPVAT.APIFonetica.CrossCutting\obj\Debug\netcoreapp2.2\Lider.DPVAT.APIFonetica.Infra.CrossCutting.csproj.CopyComplete
+C:\Users\brunoguedes\Documents\GitHub\Fonetica\APP\Lider.DPVAT.APIFonetica.CrossCutting\obj\Debug\netcoreapp2.2\Lider.DPVAT.APIFonetica.Infra.CrossCutting.dll
+C:\Users\brunoguedes\Documents\GitHub\Fonetica\APP\Lider.DPVAT.APIFonetica.CrossCutting\obj\Debug\netcoreapp2.2\Lider.DPVAT.APIFonetica.Infra.CrossCutting.pdb
