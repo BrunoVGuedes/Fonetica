@@ -30,7 +30,7 @@ namespace Lider.DPVAT.APIFonetica
             LayoutRenderer.Register("custom-shortdate", (logEvent) => DateTime.Now.ToString("yyyyMMdd"));
             LayoutRenderer.Register("application-name", (logEvent) => Assembly.GetExecutingAssembly().FullName);
 
-            var logger = NLog.Web.NLogBuilder.ConfigureNLog("nlog.config").GetCurrentClassLogger();
+            var logger = NLog.Web.NLogBuilder.ConfigureNLog("NLog.config").GetCurrentClassLogger();
 
             try
             {
