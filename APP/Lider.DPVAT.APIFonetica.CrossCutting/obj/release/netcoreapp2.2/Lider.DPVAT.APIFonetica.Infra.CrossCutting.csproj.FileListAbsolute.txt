@@ -1,0 +1,13 @@
+C:\Users\brunoguedes\Documents\GitHub\Fonetica\APP\Lider.DPVAT.APIFonetica.CrossCutting\bin\release\netcoreapp2.2\Lider.DPVAT.APIFonetica.Infra.CrossCutting.deps.json
+C:\Users\brunoguedes\Documents\GitHub\Fonetica\APP\Lider.DPVAT.APIFonetica.CrossCutting\bin\release\netcoreapp2.2\Lider.DPVAT.APIFonetica.Infra.CrossCutting.dll
+C:\Users\brunoguedes\Documents\GitHub\Fonetica\APP\Lider.DPVAT.APIFonetica.CrossCutting\bin\release\netcoreapp2.2\Lider.DPVAT.APIFonetica.Infra.CrossCutting.pdb
+C:\Users\brunoguedes\Documents\GitHub\Fonetica\APP\Lider.DPVAT.APIFonetica.CrossCutting\bin\release\netcoreapp2.2\Lider.DPVAT.APIFonetica.Application.dll
+C:\Users\brunoguedes\Documents\GitHub\Fonetica\APP\Lider.DPVAT.APIFonetica.CrossCutting\bin\release\netcoreapp2.2\Lider.DPVAT.APIFonetica.Domain.dll
+C:\Users\brunoguedes\Documents\GitHub\Fonetica\APP\Lider.DPVAT.APIFonetica.CrossCutting\bin\release\netcoreapp2.2\Lider.DPVAT.APIFonetica.Application.pdb
+C:\Users\brunoguedes\Documents\GitHub\Fonetica\APP\Lider.DPVAT.APIFonetica.CrossCutting\bin\release\netcoreapp2.2\Lider.DPVAT.APIFonetica.Domain.pdb
+C:\Users\brunoguedes\Documents\GitHub\Fonetica\APP\Lider.DPVAT.APIFonetica.CrossCutting\obj\release\netcoreapp2.2\Lider.DPVAT.APIFonetica.Infra.CrossCutting.csprojAssemblyReference.cache
+C:\Users\brunoguedes\Documents\GitHub\Fonetica\APP\Lider.DPVAT.APIFonetica.CrossCutting\obj\release\netcoreapp2.2\Lider.DPVAT.APIFonetica.Infra.CrossCutting.AssemblyInfoInputs.cache
+C:\Users\brunoguedes\Documents\GitHub\Fonetica\APP\Lider.DPVAT.APIFonetica.CrossCutting\obj\release\netcoreapp2.2\Lider.DPVAT.APIFonetica.Infra.CrossCutting.AssemblyInfo.cs
+C:\Users\brunoguedes\Documents\GitHub\Fonetica\APP\Lider.DPVAT.APIFonetica.CrossCutting\obj\release\netcoreapp2.2\Lider.DPVAT.APIFonetica.Infra.CrossCutting.csproj.CopyComplete
+C:\Users\brunoguedes\Documents\GitHub\Fonetica\APP\Lider.DPVAT.APIFonetica.CrossCutting\obj\release\netcoreapp2.2\Lider.DPVAT.APIFonetica.Infra.CrossCutting.dll
+C:\Users\brunoguedes\Documents\GitHub\Fonetica\APP\Lider.DPVAT.APIFonetica.CrossCutting\obj\release\netcoreapp2.2\Lider.DPVAT.APIFonetica.Infra.CrossCutting.pdb
